@@ -9,7 +9,8 @@
 * Introductions
 * Sponsors
 * Pizza and drinks
-* Random tutorial
+* Datasets and Models tutorial
+* Transfer learning tutorial
 * Open Discussion (seed topics)
    * What do you want to see next week
    * What do you want to in this meetup
