@@ -99,6 +99,14 @@ TensorFlow provides many trained models for free that you can use.
 
 ### Let's play: TensorFlow Tutorial
 
+NOTE: You may need to add one of the following to get it to run 
+```python
+!pip install -U tensorflow==2.8.2
+
+#or
+
+!apt install --allow-change-held-packages libcudnn8=8.1.0.77-1+cuda11.2
+```
 First let's walk through the TensorFlow's Model Transfer
 [image transfer Lerning](https://www.tensorflow.org/tutorials/images/transfer_learning_with_hub) 
 
