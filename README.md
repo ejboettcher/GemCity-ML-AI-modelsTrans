@@ -24,7 +24,7 @@ I am, Evelyn Boettcher, and I am a physicist and have been doing machine learnin
 Allen May is the main Gem City Tech leader. Go to guy for all things web related.
 
 
-Gem City Tech is a family of user groups bringing tech-focused content to the Dayton Ohio community. There calendar is filled with opportunities to learn and share information 'about all things tech'.
+Gem City Tech is a family of user groups bringing tech-focused content to the Dayton Ohio community. Their calendar is filled with opportunities to learn and share information 'about all things tech'.
 
 Join us on our Discord server: https://discord.gg/nyDtEytbt6
 
